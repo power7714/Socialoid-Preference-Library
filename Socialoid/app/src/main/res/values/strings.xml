@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-<string name="Social_GooglePlus">Google+</string>
-    <string name="Social_Facebook">Facebook</string>
-    <string name="Social_Twitter">Twitter</string>
-    <string name="Social_YouTube">YouTube</string>
-    <string name="Social_Instagram">Instagram</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpapers">Socialoid Test</string>
+    <string name="wallpaper_cube1">Cube</string>
+    <string name="wallpaper_cube2">Cube - resource</string>
+    <string name="wallpaper_cube3">Cube - RenderScript</string>
+
+    <string name="settings">Settings</string>
+    <string name="settings_title">Select shape</string>
+    <string name="settings_summary">Choose whether to display a cube or a dodecahedron</string>
 </resources>
