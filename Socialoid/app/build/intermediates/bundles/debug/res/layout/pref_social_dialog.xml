@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    android:gravity="left" 
+    android:orientation="vertical" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:layout_margin="@dimen/value_margin_half"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView 
+        android:gravity="left|center" 
+        android:id="@+id/tv_social_ytube" 
+        android:clickable="true" 
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:layout_margin="@dimen/value_margin_half" 
+        android:text="@string/Social_YouTube"
+        android:drawableLeft="@drawable/selector_ytube" 
+        android:drawablePadding="@dimen/value_margin" />
+    <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <TextView 
+        android:gravity="left|center" 
+        android:id="@+id/tv_social_gplus" 
+        android:clickable="true" 
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:layout_margin="@dimen/value_margin_half" 
+        android:text="@string/Social_GooglePlus"
+        android:drawableLeft="@drawable/selector_gplus" 
+        android:drawablePadding="@dimen/value_margin" />
+    <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <TextView 
+        android:gravity="left|center" 
+        android:id="@+id/tv_social_facebook" 
+        android:clickable="true" 
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:layout_margin="@dimen/value_margin_half" 
+        android:text="@string/Social_Facebook"
+        android:drawableLeft="@drawable/selector_fb" 
+        android:drawablePadding="@dimen/value_margin" />
+    <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <TextView 
+        android:gravity="left|center" 
+        android:id="@+id/tv_social_twitter" 
+        android:clickable="true" 
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:layout_margin="@dimen/value_margin_half" 
+        android:text="@string/Social_Twitter"
+        android:drawableLeft="@drawable/selector_twitter" 
+        android:drawablePadding="@dimen/value_margin" />
+    <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    
+</LinearLayout>

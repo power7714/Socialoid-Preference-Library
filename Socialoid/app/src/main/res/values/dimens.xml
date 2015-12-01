@@ -1,0 +1,10 @@
+<resources>
+<dimen name="value_margin">10.0dip</dimen>
+    <dimen name="value_margin_half">5.0dip</dimen>
+    <dimen name="value_dims_list_item_height_max">125.0dip</dimen>
+    <dimen name="value_dims_list_item_width_max">250.0dip</dimen>
+    <item type="dimen" name="value_dims_list_text_height_max">@dimen/value_dims_list_item_height_max</item>
+    <item type="dimen" name="value_dims_list_text_width_max">@dimen/value_dims_list_item_width_max</item>
+    <item type="dimen" name="value_dims_list_image_height_max">@dimen/value_dims_list_item_height_max</item>
+    <item type="dimen" name="value_dims_list_image_width_max">@dimen/value_dims_list_item_height_max</item>
+</resources>

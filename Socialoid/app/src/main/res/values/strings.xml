@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="Social_GooglePlus">Google+</string>
+    <string name="Social_Facebook">Facebook</string>
+    <string name="Social_Twitter">Twitter</string>
+    <string name="Social_YouTube">YouTube</string>
+    <string name="Social_Instagram">Instagram</string>
+</resources>

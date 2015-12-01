@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SocialPreference">
+   	    <attr name="ytube" format="string" />
+   	    <attr name="twit" format="string" />
+   	    <attr name="twit2" format="string" />
+   	    <attr name="fb" format="string" />
+   	    <attr name="fb2" format="string" />
+   	    <attr name="gplus" format="string" />
+   	    <attr name="dialogTitle" format="string" />
+   	    <attr name="titleDef" format="string" />
+   	    <attr name="summaryDef" format="string" />
+   	</declare-styleable>
+</resources>

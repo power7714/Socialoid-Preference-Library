@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#6C7F91</color>
+    <color name="accent_color">#03A9F4</color>
+    <color name="blue">#303F9F</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="dark_green">#5B852D</color>
+    <color name="drawerArrowColor">@android:color/white</color>
+    <color name="light_green">#7ABA34</color>
+    <color name="navigationBarColor">@android:color/black</color>
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#6C7F91</color>
+    <color name="statusBarColor">#C5CAE9</color>
+    <declare-styleable name="SocialPreference"><attr format="string" name="ytube"/><attr format="string" name="twit"/><attr format="string" name="twit2"/><attr format="string" name="fb"/><attr format="string" name="fb2"/><attr format="string" name="gplus"/><attr format="string" name="dialogTitle"/><attr format="string" name="titleDef"/><attr format="string" name="summaryDef"/></declare-styleable>
+    <item name="value_dims_list_image_height_max" type="dimen">@dimen/value_dims_list_item_height_max</item>
+    <item name="value_dims_list_image_width_max" type="dimen">@dimen/value_dims_list_item_height_max</item>
+    <dimen name="value_dims_list_item_height_max">125.0dip</dimen>
+    <dimen name="value_dims_list_item_width_max">250.0dip</dimen>
+    <item name="value_dims_list_text_height_max" type="dimen">@dimen/value_dims_list_item_height_max</item>
+    <item name="value_dims_list_text_width_max" type="dimen">@dimen/value_dims_list_item_width_max</item>
+    <dimen name="value_margin">10.0dip</dimen>
+    <dimen name="value_margin_half">5.0dip</dimen>
+    <string name="Social_Facebook">Facebook</string>
+    <string name="Social_GooglePlus">Google+</string>
+    <string name="Social_Instagram">Instagram</string>
+    <string name="Social_Twitter">Twitter</string>
+    <string name="Social_YouTube">YouTube</string>
+    <style name="MaterialTheme" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
