@@ -1,0 +1,44 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:gravity="center"
+	android:orientation="horizontal"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content">
+
+	<ImageView
+		android:layout_gravity="center"
+		android:id="@+id/iv_social_ytube"
+		android:contentDescription="@string/Social_YouTube"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_margin="@dimen/value_margin_half"
+		android:src="@drawable/selector_ytube"/>
+
+	<ImageView
+		android:layout_gravity="center"
+		android:id="@+id/iv_social_gplus"
+		android:contentDescription="@string/Social_GooglePlus"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_margin="@dimen/value_margin_half"
+		android:src="@drawable/selector_gplus"/>
+
+	<ImageView
+		android:layout_gravity="center"
+		android:id="@+id/iv_social_facebook"
+		android:contentDescription="@string/Social_Facebook"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_margin="@dimen/value_margin_half"
+		android:src="@drawable/selector_fb"/>
+
+	<ImageView
+		android:layout_gravity="center"
+		android:id="@+id/iv_social_twitter"
+		android:contentDescription="@string/Social_Twitter"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_margin="@dimen/value_margin_half"
+		android:src="@drawable/selector_twitter"/>
+
+</LinearLayout>

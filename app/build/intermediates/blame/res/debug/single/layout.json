@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Documents\\Socialoid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\socialoid_pref.xml",
+        "source": "C:\\Users\\USER\\Documents\\Socialoid\\app\\build\\intermediates\\exploded-aar\\com.curtrostudios.socialoidlibrary\\socialoidlibrary\\1.0.1\\res\\layout\\socialoid_pref.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\Socialoid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pref_social_dialog.xml",
+        "source": "C:\\Users\\USER\\Documents\\Socialoid\\app\\build\\intermediates\\exploded-aar\\com.curtrostudios.socialoidlibrary\\socialoidlibrary\\1.0.1\\res\\layout\\pref_social_dialog.xml"
+    }
+]
