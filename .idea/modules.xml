@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Socialoid.iml" filepath="$PROJECT_DIR$/Socialoid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/socialoidlibrary/socialoidlibrary.iml" filepath="$PROJECT_DIR$/socialoidlibrary/socialoidlibrary.iml" />
     </modules>
   </component>
