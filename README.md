@@ -11,10 +11,12 @@ Custom preference view for preference screens on Android. Each social icon is se
 dialog appears which is also clickable. Each social icon is programmed to open in the corresponding app or in the browser if the app isn't present.
 Including this library into your preference screen layout is very easy. See screenshots below.
 
+**Min api level = 15**
+
 # Add to dependencies
 - Add this to your projects build.gradle(module:YOUR_APP)
 ```xml
-    compile 'com.curtrostudios.socialoidlibrary:socialoidlibrary:1.0.1'
+    compile 'com.curtrostudios.socialoidlibrary:socialoidlibrary:1.0.3'
 ```
 
 # Usage
