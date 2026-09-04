@@ -1,10 +1,5 @@
 [![Build Status](https://travis-ci.org/power7714/Socialoid-Preference-Library.svg?branch=master)](https://travis-ci.org/power7714/Socialoid-Preference-Library)
-[![Download](https://api.bintray.com/packages/power7714/maven/Socialoid/images/download.svg)](https://bintray.com/power7714/maven/Socialoid/_latestVersion)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Socialoid--Preference--Library-green.svg?style=true)](https://android-arsenal.com/details/1/2883)
-
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=power7714&url=https://github.com/power7714/Socialoid-Preference-Library&title=Socialoid-Preference-Library&language=&tags=github&category=software)
-<--- If you enjoyed using this library, please contribute to my passion and work. 
-
 
 # Socialoid-Preference-Library
 
